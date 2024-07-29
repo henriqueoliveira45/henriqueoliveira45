@@ -1,7 +1,5 @@
 
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 Olá,seja bem vindo!
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 Você pode chegar até mim através do celular!
 - 😄 Gostaria de ser chamado de Big!
 - ⚡ Sou extrovertido!
+<!--
 -->
